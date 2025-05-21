@@ -111,7 +111,11 @@ node index.js
 
 ## 📸 Screenshots (Add Yours)
 
-> _Include screenshots of dashboard, charts, alert email, etc._
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/9c053a5d-a111-4c3c-8129-8f085f521943" />
+
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/004bb803-0c93-4468-9270-a3ac52cf0ccf" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/b32b3965-5921-40cf-a0fe-2999910e8feb" />
 
 ---
 
