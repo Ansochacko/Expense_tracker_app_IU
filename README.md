@@ -1,4 +1,4 @@
-# 💸 Expense Tracker App (MERN Stack) IU International University, Germany
+# 💸 Expense Tracker App (MERN Stack) IU International University, Germany 
 
 The **Expense Tracker App** is a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to help users track their daily, weekly, and monthly expenses. It features a modern UI, backend API services, and a background email alert system.
 
